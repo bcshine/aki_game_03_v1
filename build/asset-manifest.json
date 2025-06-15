@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/aki_game_02/static/css/main.d3a02502.css",
-    "main.js": "/aki_game_02/static/js/main.e47c1e06.js",
-    "static/js/453.0b6a5ca2.chunk.js": "/aki_game_02/static/js/453.0b6a5ca2.chunk.js",
-    "index.html": "/aki_game_02/index.html",
-    "main.d3a02502.css.map": "/aki_game_02/static/css/main.d3a02502.css.map",
-    "main.e47c1e06.js.map": "/aki_game_02/static/js/main.e47c1e06.js.map",
-    "453.0b6a5ca2.chunk.js.map": "/aki_game_02/static/js/453.0b6a5ca2.chunk.js.map"
+    "main.css": "/aki_game_03_v1/static/css/main.d3a02502.css",
+    "main.js": "/aki_game_03_v1/static/js/main.1afb446c.js",
+    "static/js/453.0b6a5ca2.chunk.js": "/aki_game_03_v1/static/js/453.0b6a5ca2.chunk.js",
+    "index.html": "/aki_game_03_v1/index.html",
+    "main.d3a02502.css.map": "/aki_game_03_v1/static/css/main.d3a02502.css.map",
+    "main.1afb446c.js.map": "/aki_game_03_v1/static/js/main.1afb446c.js.map",
+    "453.0b6a5ca2.chunk.js.map": "/aki_game_03_v1/static/js/453.0b6a5ca2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d3a02502.css",
-    "static/js/main.e47c1e06.js"
+    "static/js/main.1afb446c.js"
   ]
 }

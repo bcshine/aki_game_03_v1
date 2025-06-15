@@ -2,7 +2,7 @@
   "name": "aki-event-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://bcshine.github.io/aki-event-game",
+  "homepage": "https://bcshine.github.io/aki_game_03_v1",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
